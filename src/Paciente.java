@@ -8,8 +8,7 @@ public class Paciente {
     }
 
     public double calcularIMC() {
-        double imc = peso / (altura * altura);
-        return Math.floor(imc * 100) / 100;
+        return Math.floor(peso / (altura * altura) * 100) / 100;
     }
 
     public String diagnostico() {
