@@ -1,7 +1,8 @@
 # Calculo-IMC
 
 ## Orientação a Objetos com Java
-Projeto desenvolvido durante a semana 1 do curso de Orientação a Objetos com Java, pelo ITA, na plataforma Coursera. \
+Projeto desenvolvido durante a semana 1 do curso de Orientação a Objetos com Java, pelo ITA, na plataforma Coursera.
+
 Durante a semana 3 do curso, foi proposto como material complementar o desenvolvimento de testes para o projeto utilizando JUnit.
 
 ## Instruções do Projeto
